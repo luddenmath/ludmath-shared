@@ -1,2 +1,2 @@
-# ludmath-shared-version-version-display.js
+# ludmath-shared
 Shared files among all projects
